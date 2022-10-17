@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Ageo";
+  src: url("../public/font/Ageo.ttf");
+}
+
+@font-face {
+  font-family: "Ageo-semiBold";
+  src: url("../public/font/Ageo-SemiBold.ttf");
+}
+
+@font-face {
+  font-family: "Ageo-Bold";
+  src: url("../public/font/Ageo-Bold.ttf");
+}
+
+body{
+  font-family: "Ageo-semiBold";
+}
