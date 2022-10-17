@@ -1,3 +1,3 @@
-Clone this git
-npm i
+Clone this git >
+npm i >
 npm dev run
